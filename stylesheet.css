@@ -1,0 +1,49 @@
+body {
+    background: #1C2123;
+    font-size: 15pt;
+    color: green;
+    display: grid; 
+    font-family: sans-serif;
+  }
+  
+  .clock {
+    font-size: 70pt;
+    font-family: 'Orbitron', sans-serif;
+  }
+  
+  div {
+    text-align: center;
+  }
+  
+  select {
+    color: green;
+    font-size: 15pt;
+    background: #1C2123;;
+    border:  solid green 1px;
+    cursor: pointer;
+  }
+
+  button {
+    cursor: pointer;
+    color: green;
+    font-size: 15pt;
+    width: 150px;
+    background: #1C2123;
+    border: solid green 1px;
+  }
+
+  button:hover {
+      color: #1C2123;
+      border: solid #1C2123 1px;
+      background: green;
+  }
+  
+  p {
+    text-align: center;
+    color: white;
+  }
+
+  section {
+    margin-top: 200px;
+    height: 300px;
+  }
